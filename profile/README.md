@@ -26,7 +26,8 @@ Tools to control OBSBOT webcams on Linux, tested with the Tiny 2 Lite.
 
 **obsbot4linux**: the command-line tool and the background service (daemon) that talks to the camera. Tracking,
 framing, zoom, presets, picture and audio settings from the terminal.\
-[Repository](https://github.com/hellwand/obsbot4linux) · [Releases](https://github.com/hellwand/obsbot4linux/releases)
+[Website](https://hellwand.github.io/obsbot4linux/) · [Repository](https://github.com/hellwand/obsbot4linux) ·
+[Releases](https://github.com/hellwand/obsbot4linux/releases)
 
 **OBSBOT Control**: the widget for the Dux desktop shell, built on obsbot4linux. The same controls in the bar, with a
 live preview.\
